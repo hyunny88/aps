@@ -1,0 +1,177 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="4.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <ItemGroup>
+    <Filter Include="소스 파일">
+      <UniqueIdentifier>{4FC737F1-C7A5-4376-A066-2A32D752A2FF}</UniqueIdentifier>
+      <Extensions>cpp;c;cc;cxx;def;odl;idl;hpj;bat;asm;asmx</Extensions>
+    </Filter>
+    <Filter Include="헤더 파일">
+      <UniqueIdentifier>{93995380-89BD-4b04-88EB-625FBE52EBFB}</UniqueIdentifier>
+      <Extensions>h;hh;hpp;hxx;hm;inl;inc;xsd</Extensions>
+    </Filter>
+    <Filter Include="리소스 파일">
+      <UniqueIdentifier>{67DA6AB6-F800-4c08-8B7A-83BB121AAD01}</UniqueIdentifier>
+      <Extensions>rc;ico;cur;bmp;dlg;rc2;rct;bin;rgs;gif;jpg;jpeg;jpe;resx;tiff;tif;png;wav;mfcribbon-ms</Extensions>
+    </Filter>
+    <Filter Include="소스 파일\greedy">
+      <UniqueIdentifier>{1890f1a9-d751-4332-bb34-b340498f9989}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="소스 파일\divide">
+      <UniqueIdentifier>{b47a008d-4fcf-4c56-a699-ca64433bd8f1}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="소스 파일\binary">
+      <UniqueIdentifier>{ad83910d-2e90-40fb-a540-ce4075a766b8}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="소스 파일\bruteforce">
+      <UniqueIdentifier>{2c1ecd69-e238-4836-8444-c37955f4c9db}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="소스 파일\datastructure">
+      <UniqueIdentifier>{44992df5-6adc-4c0e-89de-6461ba572972}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="소스 파일\test">
+      <UniqueIdentifier>{5128eaf2-f4a3-419a-a620-f7d75e41db1a}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="소스 파일\samsung_sw">
+      <UniqueIdentifier>{62ed013d-9f59-4751-ba78-6ca815ed1b09}</UniqueIdentifier>
+    </Filter>
+  </ItemGroup>
+  <ItemGroup>
+    <ClCompile Include="1541.cpp">
+      <Filter>소스 파일\greedy</Filter>
+    </ClCompile>
+    <ClCompile Include="1744.cpp">
+      <Filter>소스 파일\greedy</Filter>
+    </ClCompile>
+    <ClCompile Include="1783.cpp">
+      <Filter>소스 파일\greedy</Filter>
+    </ClCompile>
+    <ClCompile Include="1931.cpp">
+      <Filter>소스 파일\greedy</Filter>
+    </ClCompile>
+    <ClCompile Include="1991.cpp">
+      <Filter>소스 파일\greedy</Filter>
+    </ClCompile>
+    <ClCompile Include="2875.cpp">
+      <Filter>소스 파일\greedy</Filter>
+    </ClCompile>
+    <ClCompile Include="7576.cpp">
+      <Filter>소스 파일\greedy</Filter>
+    </ClCompile>
+    <ClCompile Include="10610.cpp">
+      <Filter>소스 파일\greedy</Filter>
+    </ClCompile>
+    <ClCompile Include="11047_O.cpp">
+      <Filter>소스 파일\greedy</Filter>
+    </ClCompile>
+    <ClCompile Include="11391_O.cpp">
+      <Filter>소스 파일\greedy</Filter>
+    </ClCompile>
+    <ClCompile Include="1201.cpp">
+      <Filter>소스 파일\greedy</Filter>
+    </ClCompile>
+    <ClCompile Include="2873.cpp">
+      <Filter>소스 파일\greedy</Filter>
+    </ClCompile>
+    <ClCompile Include="1780.cpp">
+      <Filter>소스 파일\divide</Filter>
+    </ClCompile>
+    <ClCompile Include="11728.cpp">
+      <Filter>소스 파일\divide</Filter>
+    </ClCompile>
+    <ClCompile Include="1080_O.cpp">
+      <Filter>소스 파일\greedy</Filter>
+    </ClCompile>
+    <ClCompile Include="2263.cpp">
+      <Filter>소스 파일\divide</Filter>
+    </ClCompile>
+    <ClCompile Include="1992.cpp">
+      <Filter>소스 파일\divide</Filter>
+    </ClCompile>
+    <ClCompile Include="2447.cpp">
+      <Filter>소스 파일\divide</Filter>
+    </ClCompile>
+    <ClCompile Include="11723.cpp">
+      <Filter>소스 파일\bruteforce</Filter>
+    </ClCompile>
+    <ClCompile Include="1697_O.cpp">
+      <Filter>소스 파일\bruteforce</Filter>
+    </ClCompile>
+    <ClCompile Include="1963.cpp">
+      <Filter>소스 파일\bruteforce</Filter>
+    </ClCompile>
+    <ClCompile Include="9019.cpp">
+      <Filter>소스 파일\bruteforce</Filter>
+    </ClCompile>
+    <ClCompile Include="2251.cpp">
+      <Filter>소스 파일\bruteforce</Filter>
+    </ClCompile>
+    <ClCompile Include="1525.cpp">
+      <Filter>소스 파일\bruteforce</Filter>
+    </ClCompile>
+    <ClCompile Include="3111.cpp">
+      <Filter>소스 파일\datastructure</Filter>
+    </ClCompile>
+    <ClCompile Include="9935.cpp">
+      <Filter>소스 파일\datastructure</Filter>
+    </ClCompile>
+    <ClCompile Include="3015.cpp">
+      <Filter>소스 파일\datastructure</Filter>
+    </ClCompile>
+    <ClCompile Include="1717_O.cpp">
+      <Filter>소스 파일\datastructure</Filter>
+    </ClCompile>
+    <ClCompile Include="2606_O.cpp">
+      <Filter>소스 파일\datastructure</Filter>
+    </ClCompile>
+    <ClCompile Include="6603.cpp">
+      <Filter>소스 파일\bruteforce</Filter>
+    </ClCompile>
+    <ClCompile Include="9095_O.cpp">
+      <Filter>소스 파일\bruteforce</Filter>
+    </ClCompile>
+    <ClCompile Include="1759_O.cpp">
+      <Filter>소스 파일\bruteforce</Filter>
+    </ClCompile>
+    <ClCompile Include="9663_O.cpp">
+      <Filter>소스 파일\bruteforce</Filter>
+    </ClCompile>
+    <ClCompile Include="2580.cpp">
+      <Filter>소스 파일\bruteforce</Filter>
+    </ClCompile>
+    <ClCompile Include="1182_O.cpp">
+      <Filter>소스 파일\bruteforce</Filter>
+    </ClCompile>
+    <ClCompile Include="sort.cpp">
+      <Filter>소스 파일\test</Filter>
+    </ClCompile>
+    <ClCompile Include="1602_O.cpp">
+      <Filter>소스 파일\datastructure</Filter>
+    </ClCompile>
+    <ClCompile Include="7785_O.cpp">
+      <Filter>소스 파일\datastructure</Filter>
+    </ClCompile>
+    <ClCompile Include="3653.cpp">
+      <Filter>소스 파일\datastructure</Filter>
+    </ClCompile>
+    <ClCompile Include="5639_O_Re.cpp">
+      <Filter>소스 파일\datastructure</Filter>
+    </ClCompile>
+    <ClCompile Include="2910.cpp">
+      <Filter>소스 파일\datastructure</Filter>
+    </ClCompile>
+    <ClCompile Include="13460.cpp">
+      <Filter>소스 파일\samsung_sw</Filter>
+    </ClCompile>
+    <ClCompile Include="10999_O.cpp">
+      <Filter>소스 파일\datastructure</Filter>
+    </ClCompile>
+    <ClCompile Include="2042_O.cpp">
+      <Filter>소스 파일\datastructure</Filter>
+    </ClCompile>
+  </ItemGroup>
+  <ItemGroup>
+    <Text Include="input.txt">
+      <Filter>리소스 파일</Filter>
+    </Text>
+  </ItemGroup>
+</Project>
